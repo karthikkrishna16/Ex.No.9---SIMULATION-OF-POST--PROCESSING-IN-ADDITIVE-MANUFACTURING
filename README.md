@@ -63,8 +63,8 @@
 
 ![WhatsApp Image 2024-05-15 at 15 15 04_6f6c4e00](https://github.com/Dharsanrameshkumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870430/0c21defe-7df4-489f-82c5-694b1f33cb8c)
 
-### Name:MUKESH KUMAR
-### Register Number:212223240099
+### Name:TH KARTHIK KRISHNA
+### Register Number:212223240067
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
